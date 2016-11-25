@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,3 +24,7 @@ Things you may want to cover:
 
 * ...
 qwerty
+=======
+# toy_app
+Learn scaffolding
+>>>>>>> 3f14b8b5c57ab60f158c9d0a17d1b0a87e484516
